@@ -4,3 +4,6 @@
 404 error at 23-12-2014 18:07:34: http://localhost/complete/1/
 404 error at 23-12-2014 18:07:36: http://localhost/delete/1/
 404 error at 23-12-2014 18:07:49: http://localhost/this-route-does-not-exist/
+404 error at 23-12-2014 18:24:51: http://localhost/complete/1/
+404 error at 23-12-2014 18:24:52: http://localhost/delete/1/
+404 error at 23-12-2014 18:25:06: http://localhost/this-route-does-not-exist/
